@@ -2,7 +2,7 @@
 
 # Clonamos el repo
 # git clone https://github.com/marinomaria/communitynotes.git
-cd communitynotes
+# cd communitynotes
 
 # Creamos un virtual environment
 python3.7 -m venv communitynotes
