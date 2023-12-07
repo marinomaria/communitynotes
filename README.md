@@ -1,4 +1,10 @@
 ## Cómo usar este repo
+
+## Descargar los datos
+
+Link: https://drive.google.com/file/d/1cqs4WaBCbH9DN6CP4MHjFQlF3tBGA_QE/view?usp=sharing
+Poner el archivo decargado en `sourcecode`
+
 ### Setup
 
 ```bash

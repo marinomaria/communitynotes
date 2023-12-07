@@ -14,7 +14,7 @@ source communitynotes/bin/activate
 pip install -r requirements.txt
 
 # Descomprimimos el dataset
-# mkdir -p sourcecode/data
-# unzip sourcecode/data.zip -d sourcecode/data
+mkdir -p sourcecode/data
+unzip sourcecode/data.zip -d sourcecode/data
 
 echo "Setup exitoso! :)"
